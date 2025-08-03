@@ -1,3 +1,6 @@
+<img width="1536" height="1024" alt="自然言語からコード生成できる 開発者向けメモアプリ" src="https://github.com/user-attachments/assets/d38bb9ff-ca8e-4c3c-ae20-5efc894fe78d" />
+
+
 # 🧠 Code Snippet Memo
 
 > 自然言語で「○○のコード書いて」と入力 → GPTが即座にスニペットを生成・保存・再利用できる開発者向けアプリ
