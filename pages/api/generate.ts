@@ -42,5 +42,5 @@ export default async function handler(
     const code = json.choices?.[0]?.message?.content || '';
     res.status(200).json({ code });
   } catch (err) {
-    res.status(500).json({ error: 'Failed to generate code' });+  }
-}
+  res.status(500).json({ error: 'Failed to generate code' });
+  }}
