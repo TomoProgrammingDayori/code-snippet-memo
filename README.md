@@ -1,16 +1,20 @@
 # 🧠 Code Snippet Memo
 
-> **自然言語からコードスニペットを自動生成・保存・再利用できる、開発者向けのメモ帳アプリ**
+> 自然言語で「○○のコード書いて」と入力 → GPTが即座にスニペットを生成・保存・再利用できる開発者向けアプリ
 
-<img width="940" height="303" alt="スクリーンショット 2025-08-03 115600" src="https://github.com/user-attachments/assets/456b7644-5b1b-41a5-9f2e-ea1bf9bacc3c" />
-
+<img width="940" height="303" alt="スクリーンショット" src="https://github.com/user-attachments/assets/456b7644-5b1b-41a5-9f2e-ea1bf9bacc3c" />
 
 ---
 
 ## 🚀 概要
 
-「Code Snippet Memo」は、**ChatGPT（GPT-4 or GPT-3.5 Turbo）を活用して自然言語からコードスニペットを生成し、履歴として保存・再利用できる**Webアプリです。  
-開発効率を高めたい方、Codexの練習をしたい方に最適です。
+**Code Snippet Memo**は以下のような用途に最適です：
+
+- **自然言語からコードスニペットを生成したい**
+- **履歴を保存・再利用したい**
+- **ChatGPTやCodexの練習に使いたい**
+
+OpenAIのAPI（GPT-4 / GPT-3.5 Turbo）とNext.jsで構築した、**コード×AIのシンプルで実用的なWebアプリ**です。
 
 ---
 
