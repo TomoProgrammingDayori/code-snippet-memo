@@ -1,7 +1,7 @@
 <img width="1536" height="1024" alt="自然言語からコード生成できる 開発者向けメモアプリ" src="https://github.com/user-attachments/assets/d38bb9ff-ca8e-4c3c-ae20-5efc894fe78d" />
 
 
-## 🍏 Code Snippet Memo – あなたの言葉が、コードになる
+## 📝 Code Snippet Memo – あなたの言葉が、コードになる
 
 > 「コードを書いてくれる魔法のノートがあったら？」
 > 私たちはその質問に、答えを用意しました。
