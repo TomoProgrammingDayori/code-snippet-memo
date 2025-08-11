@@ -1,5 +1,6 @@
-<img width="1536" height="1024" alt="自然言語からコード生成できる 開発者向けメモアプリ" src="https://github.com/user-attachments/assets/d38bb9ff-ca8e-4c3c-ae20-5efc894fe78d" />
-
+<p>
+  <img width="1536" height="1024" alt="自然言語からコード生成できる 開発者向けメモアプリ" src="https://github.com/user-attachments/assets/04b220a4-e4a4-497f-934e-2011456ee903" />
+</p>
 
 ## 📝 Code Snippet Memo – あなたの言葉が、コードになる
 
